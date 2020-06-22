@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","variables.scss"],"names":[],"mappings":"AAEA,GACE,SCHa","file":"style.a01fd671.css","sourceRoot":"../src","sourcesContent":["@import \"./variables\";\n\nh1 {\n  color: $mainColor;\n}\n","$mainColor: red;\n"]}
